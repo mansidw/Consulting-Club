@@ -1,0 +1,27 @@
+[
+    {
+        "branch": "Information Technology",
+        "city": "Mumbai",
+        "country": "India",
+        "currentCompany": "",
+        "description": "I love myself!",
+        "email": "mansi.dwivedi@spit.ac.in",
+        "githubProfile": "https://github.com/rishabhj0110/Consulting-Website",
+        "linkedInProfile": "https://www.linkedin.com/notifications/",
+        "name": "Mansi Dwivedi",
+        "otherLinks": "",
+        "passoutYear": 2022,
+        "password": "pbkdf2_sha256$260000$MS0XvoUR7UBIgFxGu6UzTj$8Lfw+e0CWVHFuKGwwi3e3kZfijKQnn3eO/+nMTOyA00=",
+        "pcompany1": "",
+        "pcompany2": "",
+        "pcompany3": "",
+        "profilePic": "profilePics/mansi.png",
+        "prole1": "",
+        "prole2": "",
+        "prole3": "",
+        "role": "",
+        "skills": "react,django,PostgreSQL",
+        "state": "Maharashtra",
+        "uid": "2019140016"
+    }
+]

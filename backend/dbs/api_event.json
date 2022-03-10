@@ -1,0 +1,42 @@
+[
+    {
+        "date": "2021-09-11",
+        "details": "Getting to know about On-Campus Placement process by the 2022 batch who have bagged wonderful opportunities at big MNCs in both technical and non-technical domain\r\n\r\n- Each speaker talked about their interview like what questions were asked to them, how did they answer the questions in a sequential manner.\r\n\r\n- Speakers also talked about how they prepared for the interviews, what all they referred to prepare for the interviews.",
+        "finished": 1,
+        "formLink": null,
+        "id": 4,
+        "image": "eventImages/placement.jpeg",
+        "name": "Placement Talk",
+        "resources": "xyz"
+    },
+    {
+        "date": "2021-10-13",
+        "details": "An interactive session conducted about resume building.\r\nSpeaker: Mr. Pranav Singh.  (Senior Product manager at Walmart and Ex Barclays Vice President)\r\n\r\nTopics covered-\r\nHow to build a resume.\r\nHow to build a resume from scratch.\r\nSpeaker shared his resume and discussed what things you can put.\r\nPointed out how a correct resume should be.\r\nSpeaker’s experience about product management and his experience at Walmart.\r\nQ&A session",
+        "finished": 1,
+        "formLink": null,
+        "id": 5,
+        "image": "eventImages/resume.gif",
+        "name": "Resume Building Workshop",
+        "resources": "xyz"
+    },
+    {
+        "date": "2021-10-29",
+        "details": "An interactive session was conducted about guesstimates and how to solve them. \r\n\r\nSpeakers:\r\nHarsh Agrawal (ETRX 2022-WorkIndia)\r\nKushagra Gautam(ETRX 2022 - ZS Associates)\r\nArnav Chaudhari (ETRX 2022 - GEP)\r\n\r\nTopics Covered-\r\nWhat are Guesstimates and the different approaches one can use to solve the guesstimates.\r\nSpeakers discussed the guesstimates that were asked to them in their interviews.\r\nFour examples of guesstimates.\r\nQ&A session",
+        "finished": 1,
+        "formLink": null,
+        "id": 6,
+        "image": "eventImages/guestimates.gif",
+        "name": "Guesstimates Solving Workshop",
+        "resources": "xyz"
+    },
+    {
+        "date": "2021-12-04",
+        "details": "An interactive session was conducted about basic financial knowledge. The students got to know everything about the basics of finance from our speaker.",
+        "finished": 1,
+        "formLink": null,
+        "id": 8,
+        "image": "eventImages/White__Blue_Modern_Online_Business_Webinar_Poster.png",
+        "name": "Basic of Finances",
+        "resources": null
+    }
+]

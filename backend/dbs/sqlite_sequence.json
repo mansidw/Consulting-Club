@@ -1,0 +1,50 @@
+[
+    {
+        "name": "django_migrations",
+        "seq": 38
+    },
+    {
+        "name": "django_admin_log",
+        "seq": 123
+    },
+    {
+        "name": "django_content_type",
+        "seq": 13
+    },
+    {
+        "name": "auth_permission",
+        "seq": 52
+    },
+    {
+        "name": "auth_group",
+        "seq": 0
+    },
+    {
+        "name": "auth_user",
+        "seq": 1
+    },
+    {
+        "name": "api_company",
+        "seq": 2
+    },
+    {
+        "name": "api_answer",
+        "seq": 9
+    },
+    {
+        "name": "api_project",
+        "seq": 7
+    },
+    {
+        "name": "api_event",
+        "seq": 8
+    },
+    {
+        "name": "api_question",
+        "seq": 2
+    },
+    {
+        "name": "api_contacts",
+        "seq": 4
+    }
+]

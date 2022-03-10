@@ -1,0 +1,14 @@
+[
+    {
+        "company_id": 1,
+        "date": "2022-01-14",
+        "id": 1,
+        "question": "What is the best package offered?"
+    },
+    {
+        "company_id": 2,
+        "date": "2022-01-14",
+        "id": 2,
+        "question": "What is an array?"
+    }
+]

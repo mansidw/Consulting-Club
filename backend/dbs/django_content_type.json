@@ -1,0 +1,67 @@
+[
+    {
+        "app_label": "admin",
+        "id": 1,
+        "model": "logentry"
+    },
+    {
+        "app_label": "auth",
+        "id": 2,
+        "model": "permission"
+    },
+    {
+        "app_label": "auth",
+        "id": 3,
+        "model": "group"
+    },
+    {
+        "app_label": "auth",
+        "id": 4,
+        "model": "user"
+    },
+    {
+        "app_label": "contenttypes",
+        "id": 5,
+        "model": "contenttype"
+    },
+    {
+        "app_label": "sessions",
+        "id": 6,
+        "model": "session"
+    },
+    {
+        "app_label": "api",
+        "id": 7,
+        "model": "profile"
+    },
+    {
+        "app_label": "api",
+        "id": 8,
+        "model": "event"
+    },
+    {
+        "app_label": "api",
+        "id": 9,
+        "model": "project"
+    },
+    {
+        "app_label": "api",
+        "id": 10,
+        "model": "company"
+    },
+    {
+        "app_label": "api",
+        "id": 11,
+        "model": "answer"
+    },
+    {
+        "app_label": "api",
+        "id": 12,
+        "model": "question"
+    },
+    {
+        "app_label": "api",
+        "id": 13,
+        "model": "contacts"
+    }
+]

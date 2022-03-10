@@ -1,0 +1,16 @@
+[
+    {
+        "descOfRole": "This is tech company",
+        "id": 1,
+        "name": "Company 1",
+        "package": "10LPA",
+        "tech": 1
+    },
+    {
+        "descOfRole": "Gives Non tech jobs",
+        "id": 2,
+        "name": "A Non tech Company",
+        "package": "12LPA",
+        "tech": 0
+    }
+]
