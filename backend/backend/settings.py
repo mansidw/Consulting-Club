@@ -1,10 +1,18 @@
 import os
 from pathlib import Path
 from datetime import timedelta
+import django_heroku
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+import environ
 
-SECRET_KEY = 'django-insecure-*168rl4lqqt!^a=#^jute+gje9ha&j&)thj&@jz@*fje0j-fya'
+env = environ.Env()
+# reading .env file
+environ.Env.read_env()
+
+# Raises django's ImproperlyConfigured exception if SECRET_KEY not in os.environ
+SECRET_KEY = env("SECRET_KEY")
+
 
 DEBUG = True
 
@@ -25,6 +33,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    "whitenoise.middleware.WhiteNoiseMiddleware",
     'django.contrib.sessions.middleware.SessionMiddleware',
     'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -115,3 +124,5 @@ SIMPLE_JWT = {
   'AUTH_COOKIE_PATH': '/',        # The path of the auth cookie.
   'AUTH_COOKIE_SAMESITE': 'Lax',  # Whether to set the flag restricting cookie leaks on cross-site requests. This can be 'Lax', 'Strict', or None to disable the flag.
 }
+
+django_heroku.settings(locals())
